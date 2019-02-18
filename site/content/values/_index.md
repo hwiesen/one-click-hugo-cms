@@ -43,5 +43,11 @@ values:
       sadfsadfasdfdsaf
       dsafasdfasdfsadf
       sdafsadfsadf
+  - heading: sdfdsafds asf fsd fsad fsad fsda
+    imageUrl: /img/about-sustainable-farming.jpg
+    text: |
+      sdaf sdaf dsafsdaf sdaf sad dsf sad
+      daf sdafsda sdaf sadf sdafsad f
+      dsf sdaf sad fsadfasd f
 ---
 
