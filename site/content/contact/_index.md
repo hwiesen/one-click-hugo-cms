@@ -2,20 +2,24 @@
 title: Contactasdf sadfsad sad fsad fsda fsa df
 logo: /img/android-chrome-192x192.png
 contact_entries:
-  - heading: Location
-    text: '3153 Lynn Avenue, South San Francisco, California 94080'
-  - heading: Working hours
-    text: |
-      Monday – Saturday: 9AM – 7PM 
+  - heading: 'Ort                     '
+    text: 23412 Stuttgart
+  - heading: 'Oeffnungszeiten    '
+    text: |+
+      08:00 - 22:00
 
-      We’re closed on Sundays
-      Monday – Saturday: 9AM – 7PM We’re closed on Sundays
-  - heading: dsfsadfsadfsadfsadfsadf
+      Sonntags geschlossen.
+
+  - heading: sadfsdaf
     text: |
       sdfsdafasdfsadf
-      sdaf sadfsa dfasd f
-      sda asdf asdf dsaf
-  - {}
+      sadfasdfasdfasdfsadf
+  - heading: sadfsadfsadfsadf
+    text: sadfsadfsadfsdaf
+  - heading: sadfsadf
+    text: sdfsadfsadf
+  - heading: sadfsadfasdf
+    text: sdfsadfsadf
 ---
 # We’d love to get in touch with you and hear ydsfasdfsad asdfsdafsa
 sdafasdf sad f sadf asdfasd
