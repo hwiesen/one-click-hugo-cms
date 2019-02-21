@@ -1,5 +1,5 @@
 ---
-title: Making sense of the SCAA’s new Flavor Wheel
+title: Guten Tag
 date: 2016-12-17T15:04:10.000Z
 description: >-
   The Coffee Taster’s Flavor Wheel, the official resource used by coffee
@@ -12,11 +12,22 @@ description: >-
   ds fsda f sad fasd fsda f sad fsa fas df
 
   ds fsa df sadf asd fsa df sda fsad fsdaf sadfsdaf
-image: /img/blog-flavor_wheel.jpg
+image: /img/android-chrome-512x512.png
 ---
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+Hello how are you .\
+Thank you very much for your letter.
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+_**The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more **precisely. The new descriptions are more detailed and_ hence allow cuppers to distinguish between more flavors.
+
+```
+test sd fs df sdf sa dfasdf
+```
+
+```
+sda fs adf sa df sadf sadfsasda fsad f sad f sadfsadf sad fsa dfsadf s adf sad f sad fasdfsa df asd fas dfsda fs adf asd fs daf sad fsadf
+```
+
+**While this is going to be a big change for profe**ssional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
 
 ## What the updates mean to you
 
@@ -27,7 +38,9 @@ The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-pr
 * importers/exporters
 * retailers
 * manufacturers
-* baristas
+* baristaa
+* sdfasdf asd fsda f
+* sadfasd fsda fsad fs
 
 For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
 
